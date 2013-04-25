@@ -7,17 +7,17 @@ Rock-paper-scissors-lizard-Spock is a five-gesture expansion of the classic sele
 
 ##Rules##
 
-The rules of Rock-paper-scissors-lizard-Spock are:
-Scissors cut paper
-Paper covers rock
-Rock crushes lizard
-Lizard poisons Spock
-Spock smashes (or melts) scissors
-Scissors decapitate lizard
-Lizard eats paper
-Paper disproves Spock
-Spock vaporizes rock
-Rock breaks scissors
+    The rules of Rock-paper-scissors-lizard-Spock are:
+    Scissors cut paper
+    Paper covers rock
+    Rock crushes lizard
+    Lizard poisons Spock
+    Spock smashes (or melts) scissors
+    Scissors decapitate lizard
+    Lizard eats paper
+    Paper disproves Spock
+    Spock vaporizes rock
+    Rock breaks scissors
 
 [Source: http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock]
 
