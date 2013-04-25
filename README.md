@@ -25,10 +25,9 @@ Rock-paper-scissors-lizard-Spock is a five-gesture expansion of the classic sele
 
 Execute the python script as follows
 
-$ python rpsls.py <player choice>
+    $ rpsls.py <player choice>
 
-E.g 
-$ python rpsls.py rock
-Player chooses  rock
-Computer chooses  paper
-Computer wins!
+    $ rpsls.py rock
+    Player chooses  rock
+    Computer chooses  paper
+    Computer wins!
