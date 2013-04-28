@@ -36,7 +36,7 @@ Execute the python script as follows
 
 RPSLS - Simple Rock Paper Scissor Lizard Spock game
 
-Copyright (C) 2013 Mohammad Rashid
+**Copyright (C) 2013 Mohammad Rashid**
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
